@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>resources/lamp_00.png</file>
+        <file>resources/lamp_01.png</file>
+        <file>resources/lamp_02.png</file>
+        <file>resources/lamp_03.png</file>
+        <file>resources/lamp_04.png</file>
+        <file>resources/lamp_05.png</file>
+        <file>resources/lamp_06.png</file>
+        <file>resources/lamp_07.png</file>
+        <file>resources/lamp_08.png</file>
+        <file>resources/lamp_09.png</file>
+        <file>resources/lamp_sep.png</file>
+    </qresource>
+</RCC>
